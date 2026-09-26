@@ -1,37 +1,41 @@
 # Hi, I'm Rafael Bortolotti 👋
 
-**Senior Data Analyst | Power BI | Building data solutions on AWS**  
-🇧🇷 Brazil
+**Senior Data Analyst | Power BI & SQL | Moving into Data Engineering on AWS**
 
-I have 10 years of experience in data analytics across different industries. I turn data into clear insights that support business decisions, and I'm expanding my work into data engineering on AWS.
+🇧🇷 Based in Brazil · Open to Data Engineering, AWS Data and Analytics opportunities
 
-## What I do
+I have 10 years of experience in data analytics across different industries. My background is in turning complex data into useful reports, dashboards and business decisions. Today, I'm applying that analytical experience to build data pipelines and strengthen my skills in cloud data engineering.
 
-- 📊 Build reports and dashboards with Power BI
-- 🔎 Analyze data and translate findings into business recommendations
-- ☁️ Develop hands-on data projects with Python and AWS
-- 🤖 Explore automation and integrations with n8n
+## What I bring
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+- 📊 **Analytics and BI:** Power BI, SQL, data modeling and communicating insights to stakeholders
+- 🐍 **Data pipelines:** hands-on projects with Python, data transformation and analytical datasets
+- ☁️ **AWS:** practical work with Amazon S3, AWS Glue, Amazon Athena and the AWS CLI
+- 🤖 **Automation:** experience connecting systems and processes with n8n
 
 ## Featured project
 
 ### [Historical Selic Data Pipeline on AWS](https://github.com/rafaelbortolottidev-wq/pipeline-selic-aws)
 
-A portfolio project that processes historical Selic data in data layers and makes the results available for querying with Amazon Athena. It uses Python, Amazon S3, AWS Glue and Athena.
+An end-to-end portfolio project using Brazil's historical Selic interest-rate data. I built and published **Bronze, Silver and Gold** data layers in Amazon S3, cataloged the analytical data with AWS Glue, and queried the Gold layer in Amazon Athena.
+
+**Stack:** Python · Amazon S3 · AWS Glue · Amazon Athena · Parquet · SQL
 
 ## Tools and technologies
 
-**Analytics:** Power BI · SQL · Data visualization  
-**Data engineering:** Python · Amazon S3 · AWS Glue · Amazon Athena  
-**Workflow:** Git · GitHub · n8n
+**Analytics and BI**
 
-## Connect
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-- [GitHub](https://github.com/rafaelbortolottidev-wq)
+**Data engineering and cloud**
 
-I'm interested in opportunities and conversations about data analytics, BI and data engineering.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Currently learning:** PySpark and broader AWS data engineering patterns.
+
+## Let's connect
+
+I'm interested in Data Engineer, AWS Data and analytics roles where I can combine a strong business and BI background with cloud data pipelines. Explore my [projects on GitHub](https://github.com/rafaelbortolottidev-wq?tab=repositories).
