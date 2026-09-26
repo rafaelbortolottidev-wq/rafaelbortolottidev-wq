@@ -12,6 +12,12 @@ I have 10 years of experience in data analytics across different industries. I t
 - ☁️ Develop hands-on data projects with Python and AWS
 - 🤖 Explore automation and integrations with n8n
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
 ## Featured project
 
 ### [Historical Selic Data Pipeline on AWS](https://github.com/rafaelbortolottidev-wq/pipeline-selic-aws)
